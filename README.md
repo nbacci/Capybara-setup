@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/nbacci/Capybara-setup.svg)](https://travis-ci.org/nbacci/Capybara-setup)
+
 # Setup
 
 * Clone this repo into workspace
